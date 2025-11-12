@@ -1,0 +1,10 @@
+{
+  "test_human": 85.0,
+  "test_augmented": 92.0,
+  "overall": 88.5,
+  "samples_processed": {
+    "human": 100,
+    "augmented": 100,
+    "total": 200
+  }
+}
